@@ -1,7 +1,7 @@
 {
-  "TRAIN_NO": "12559",
+  "TRAIN_NO": "17210",
   "TRAIN_COACH": "SL",
-  "TRAVEL_DATE": "18/07/2024",
+  "TRAVEL_DATE": "02/08/2024",
   "SOURCE_STATION": "BSBS",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "NDLS",
@@ -10,8 +10,8 @@
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "Shivam Pandey",
-      "AGE": 26,
+      "NAME": "chaitanya",
+      "AGE": 20,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
